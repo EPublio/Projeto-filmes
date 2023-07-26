@@ -1,2 +1,3 @@
-# Projeto-filmes
-Projeto desenvolvido durante a unidade curricular de Programação Web com o objetivo de introduzir a liguagem de PHP.
+# Projeto-filmes.
+
+CRUD PHP, projeto da unidade curricular programação web, primeiro contato com php.
